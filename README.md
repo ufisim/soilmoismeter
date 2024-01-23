@@ -1,8 +1,12 @@
 # Soil Mois Meter
+![image](https://github.com/ufisim/soilmoismeter/assets/143403528/426ddba6-ede4-44ac-8e0d-029a27529055)
 
 Soilmois a multifunctional and convenient soil moisture measuring device for the standard user.
 Look for more information in the Wiki section. There you can find articles on how the device works, how to switch it on, how to build a similar device.
 https://github.com/ufisim/soilmoismeter/wiki
+
+You can see the layout in the image at the link (layout without code!):
+https://www.tinkercad.com/things/khZ0bd2P0PG-soilmoismeter-without-code?sharecode=CvBCc91O9OjyMIlVz-bFAKGpCTOft4IB-ObmSCFzVVg
 
 | Module | Library / Driver | Function | Value |
 | :---         | :---      | :--- | :---  |
